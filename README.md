@@ -18,9 +18,6 @@ I study consumer credit markets, fair lending, elder financial health, housing d
 - **[Documenting Racially Restrictive Covenants in 20th Century Philadelphia](https://www.huduser.gov/portal/periodicals/cityscpe/vol22num3/ch11.pdf)** (2020)
   *Cityscape* 22(3): 241–260. [[Data]](https://github.com/larrysantucci/philadelphia-racial-covenants)
 
-- **[Artificial Intelligence and the Functional Distribution of Income](https://larrysantucci.github.io/ai-research/AI_and_the_FDOI_full_02202026.pdf)** (2025)
-  AI-assisted research (directed by Santucci, conducted by Claude).
-
 ### Repos
 
 - **[claude-code-applied-micro](https://github.com/larrysantucci/claude-code-applied-micro)** — Claude Code configuration for applied economists: referee agents calibrated to 14 journals, hooks for Stata & LaTeX, knowledge management architecture

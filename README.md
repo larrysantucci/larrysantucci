@@ -13,15 +13,15 @@ I study consumer credit markets, fair lending, elder financial health, housing d
   Meursault, Moulton, Santucci & Schor. *Journal of Policy Analysis and Management* 44(1): 249–276. [[Replication code]](https://github.com/larrysantucci/one-threshold-replication)
 
 - **[The Racial Wealth Gap and the Legacy of Racially Restrictive Housing Covenants](https://academic.oup.com/book/59873/chapter/511594944)** (2025)
-  In *Reducing Retirement Inequality*, edited by Mitchell & Roussanov. Oxford University Press. [[Data]](https://github.com/larrysantucci/philadelphia-racial-covenants)
+  In *Reducing Retirement Inequality*, edited by Mitchell & Roussanov. Oxford University Press. [[Data]](https://github.com/larrysantucci/philadelphia-restrictive-covenants)
 
 - **[Documenting Racially Restrictive Covenants in 20th Century Philadelphia](https://www.huduser.gov/portal/periodicals/cityscpe/vol22num3/ch11.pdf)** (2020)
-  *Cityscape* 22(3): 241–260. [[Data]](https://github.com/larrysantucci/philadelphia-racial-covenants)
+  *Cityscape* 22(3): 241–260. [[Data]](https://github.com/larrysantucci/philadelphia-restrictive-covenants)
 
 ### Repos
 
 - **[claude-code-applied-micro](https://github.com/larrysantucci/claude-code-applied-micro)** — Claude Code configuration for applied economists: referee agents calibrated to 14 journals, hooks for Stata & LaTeX, knowledge management architecture
-- **[philadelphia-racial-covenants](https://github.com/larrysantucci/philadelphia-racial-covenants)** — Spatial dataset of racially restrictive covenants in Philadelphia (public data)
+- **[philadelphia-racial-covenants](https://github.com/larrysantucci/philadelphia-restrictive-covenants)** — Spatial dataset of racially restrictive covenants in Philadelphia (public data)
 - **[one-threshold-replication](https://github.com/larrysantucci/one-threshold-replication)** — Replication materials for Meursault et al. (2024, JPAM)
 
 ### Links

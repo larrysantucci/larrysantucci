@@ -10,7 +10,7 @@ I study consumer credit markets, fair lending, elder financial health, housing d
 ### Selected Publications
 
 - **[One Threshold Doesn't Fit All: Tailoring Machine Learning Predictions of Consumer Default for Lower-Income Areas](https://onlinelibrary.wiley.com/doi/10.1002/pam.22662)** (2024)
-  Meursault, Moulton, Santucci & Schor. *Journal of Policy Analysis and Management* 44(1): 249–276. [[Replication code]](https://github.com/larrysantucci/one-threshold-replication)
+  Meursault, Moulton, Santucci & Schor. *Journal of Policy Analysis and Management* 44(1): 792-815. [[Replication code]](https://github.com/larrysantucci/one-threshold-replication)
 
 - **[The Racial Wealth Gap and the Legacy of Racially Restrictive Housing Covenants](https://academic.oup.com/book/59873/chapter/511594944)** (2025)
   In *Reducing Retirement Inequality*, edited by Mitchell & Roussanov. Oxford University Press. [[Data]](https://github.com/larrysantucci/philadelphia-restrictive-covenants)
